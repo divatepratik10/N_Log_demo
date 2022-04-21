@@ -1,0 +1,2 @@
+﻿using System;2022-04-21 20:42:49.4499 WARN User inputs should not be 0 or Negative Numbers.
+2022-04-21 20:42:49.4698 ERROR User inputs should be Positive Numbers.
